@@ -20,7 +20,7 @@ namespace RaidHex
         int denId = 0;
         Den den;
 
-        private static int denOffset = 0x452c8a70;//0x450C0A80;
+        private static int denOffset = 0x450c8a70;//0x450C0A80;
         public Form1()
         {
             InitializeComponent();
